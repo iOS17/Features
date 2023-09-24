@@ -131,3 +131,29 @@ With Apple iOS 17, your device will be empowered with a host of exciting new fea
 
 [Learn More About iOS 17](https://www.apple.com/ios/ios-17-preview/)
 
+# iOS 17 Issues
+
+"quality difference should start from lockscreen, ios glitchy lockscreen is there since ios 16. iOS 17 ringtones are buggy. Camerw freeze issues. Android is being reliable nowadays even tho app has less featire but HD quality image feature was there first on Android"
+
+![image](https://github.com/iOS17/Features/assets/135683347/717b0b0c-ac83-40eb-a81a-f0ce748e9ac6)
+
+"So Apple released the iOS 17.0.1 just a day after release of the iOS 17, as users were facing a number of issues like losing network connectivity and battery draining. Update it immediately so you don’t have to face these problems!"
+
+![image](https://github.com/iOS17/Features/assets/135683347/14a983b9-0470-48d9-b63f-567a0a012aef)
+
+Anyone else having battery issues with IOS 17 on iPhone 14 Pro Max?
+
+I used to go to bed with 50% battery and wake up with 48%. 
+
+Now I go to bed with 50% and wake up with 20%. 
+
+Nothing has changed besides the update.
+
+I have 90% battery capacity. 
+
+Any suggestions?
+![image](https://github.com/iOS17/Features/assets/135683347/97c75b45-f8d4-4056-982b-188fce9999de)
+
+
+
+
